@@ -1,0 +1,140 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	color: darkred;
+	margin-top: 25px;
+	font-size: 100px;
+	text-align: center;
+}
+p{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.aa{
+	/*border: 2px solid red;*/
+	background-color: greenyellow;
+	height: 160px;
+	width: 1500px;
+	border-top: 2px solid darkred;
+	border-left: 2px solid darkred;
+	border-right: 2px solid darkred;
+}
+.bb{
+	height: 160px;
+	width: 375px;
+	background-color: #00FA9A;
+	float: left;
+	border-left: 2px solid darkred;
+	font-size: 20px;
+	/*margin-left: 5px;*/
+	color: darkred;
+
+}
+.cc{
+	height: 160px;
+	width: 375px;
+	background-color: #7FFFD4;
+	float: left;
+	font-size: 20px;
+	/*margin-left: 5px;*/
+	color: red;
+}
+
+.dd{
+	height: 160px;
+	width: 375px;
+	background-color: #87CEFA;
+	float: left;
+	font-size: 20px;
+	color: red;
+	overflow: hidden;
+	transition: 5s;
+
+}
+.dd:hover{
+			width: 390px;
+			height: 195px;
+}
+.ee{
+	height: 160px;
+	width: 375px;
+	background-color: #E6E6FA	;
+	float: left;
+	border-right: 2px solid darkred;
+	font-size: 20px;
+	color: blueviolet;
+	overflow: scroll;
+}
+
+.ff{
+	height: 160px;
+	width: 500px;
+	background-color: red;
+	float: left;
+	border-left: 2px solid darkred;
+	/*border-radius: 50%; for use circle*/
+
+}
+.gg{
+	height: 160px;
+	width: 500px;
+	/*border: 2px solid blue;*/
+	background-color: red;
+	float: left;
+}
+.hh{
+	height: 160px;
+	width: 500px;
+	/*border: 2px solid blue;*/
+	background-color: red;
+	float: left;
+	border-right: 2px solid darkred;
+
+}
+.ii{
+	height: 160px;
+	width: 750px;
+	background-color: #FFFACD;
+	float: left;
+	border-left: 2px solid darkred;
+	color: red;
+	font-size: 20px;
+
+}
+
+.jj{
+	height: 160px;
+	width: 750px;
+	background-color: #FFFFE0;
+	float: left;
+	border-right: 2px solid darkred;
+	color: #8B0000;
+	font-size: 20px;
+
+}
+h6{
+	color: darkred;
+	margin-top: 30px;
+	/*margin-right: 500px;
+	margin-bottom: 20px;*/
+	/*margin-left: 400px;*/
+	font-size: 35px;	
+}
+.aaa{
+	/*border: 2px solid blue;*/
+	background-color: yellow;
+	height: 100px;
+	width: 1500px;
+	background-color: lightgreen;
+	float: left;
+	border-left: 2px solid darkred;
+	border-bottom: 2px solid darkred;
+	border-right: 2px solid darkred;
+
+}
+
+
+
